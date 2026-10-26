@@ -1,0 +1,6 @@
+{
+  "name": "Nevada DMV Registration Certificate Form NVREG04 Editor & PDF Generator",
+  "description": "Interactive, fillable, and editable mirror reproduction of Nevada DMV Vehicle Registration (NVREG04) with master controls, live viewer, font analysis, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
